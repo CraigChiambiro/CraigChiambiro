@@ -117,4 +117,4 @@ https://github.com/CraigChiambiro
 
 ## 🐍 GitHub Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/CraigChiambiro/CraigChiambiro/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/CraigChiambiro/CraigChiambiro/gh-pages/github-contribution-grid-snake.svg)
