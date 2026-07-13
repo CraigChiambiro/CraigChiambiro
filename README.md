@@ -1,3 +1,5 @@
+<img src="banner.jpg" width="100%" />
+
 # 👋 Hi, I'm Craig Chiambiro
 
 ## 💻 Data Analyst | Data Scientist | Software Developer
