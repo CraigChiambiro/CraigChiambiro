@@ -112,3 +112,9 @@ https://github.com/CraigChiambiro
 ---
 
 ⭐ Always learning. Always building. Always improving.
+
+---
+
+## 🐍 GitHub Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/CraigChiambiro/CraigChiambiro/output/github-contribution-grid-snake.svg)
