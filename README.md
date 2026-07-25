@@ -95,14 +95,6 @@ React • Next.js • TypeScript • Firebase • Supabase
 
 ---
 
-# 📊 GitHub Statistics
-
-![Craig's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CraigChiambiro&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CraigChiambiro&layout=compact&theme=github_dark&hide_border=true)
-
----
-
 ## 🐍 Contribution Graph
 
 ![Snake animation](https://raw.githubusercontent.com/CraigChiambiro/CraigChiambiro/gh-pages/github-contribution-grid-snake.svg)
